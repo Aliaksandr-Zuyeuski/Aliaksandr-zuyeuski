@@ -1,5 +1,5 @@
 ### Hi there 👋
-I’m Aliaksandr Zuyruski
+I’m Aliaksandr Zuyeuski
 I'm studing in Netology school on the course "QA Automated".
 > My  skills:
 
