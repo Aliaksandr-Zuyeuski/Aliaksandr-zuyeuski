@@ -16,6 +16,13 @@ I'm studing in Netology school on the course "QA Automated".
 - Load testing using Jmeter;
 - Testing REST API using Postman;
 - Understanding of SDLC and STLC, software development methodologies (waterfall, agile, scrum, kanban);
+> [My portfolio](https://github.com/Aliaksandr-Zuyeuski/DyplomaAQA)
+
+> My contacts
+
+Aliaksandr.Zuyeuski@gmail.com
+
+https://www.linkedin.com/in/aliaksandr-zuyeuski/
 
 <!--
 **Aliaksandr-Zuyeuski/Aliaksandr-zuyeuski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
