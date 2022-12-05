@@ -17,6 +17,8 @@ I'm studing in Netology school on the course "QA Automated".
 - Testing REST API using Postman;
 - Understanding of SDLC and STLC, software development methodologies (waterfall, agile, scrum, kanban);
 > [My portfolio](https://github.com/Aliaksandr-Zuyeuski/DyplomaAQA)
+> Certificates
+[QA-Cours](https://drive.google.com/file/d/1WJoVxinKPcIKb3jYRTH_mmm-Slt-xIpw/view?usp=share_link)
 
 > My contacts
 
