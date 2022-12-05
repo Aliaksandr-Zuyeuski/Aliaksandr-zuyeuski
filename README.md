@@ -25,6 +25,7 @@ I'm studing in Netology school on the course "QA Automated".
 * [Test Automation](https://drive.google.com/file/d/1EzvyAqbnzq9FHHojly8m7-aUIkMxQQoC/view?usp=share_link)
 * [Java](https://drive.google.com/file/d/1nHCwrp1EY4pNDgcvCrWIIEWcSfHJWJYp/view?usp=share_link)
 * [GIT](https://drive.google.com/file/d/1JJH7b0u_EnvOrm-IPi3JIMT8Mfq7pt7S/view?usp=share_link)
+* [MySQL](https://stepik.org/cert/1423217)
 
 > My contacts
 
